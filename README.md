@@ -1,4 +1,4 @@
-# Vega-lite clock
+# Vega clock
 
 Copied from: https://vega.github.io/vega/examples/watch/
 
